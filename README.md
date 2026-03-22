@@ -29,8 +29,8 @@ To run this tool, you need **Python 3** installed on your machine and the `Pillo
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/marques-jpg/stego-tool.git](https://github.com/marques-jpg/stego-tool.git)
-cd stego-tool
+git clone https://github.com/marques-jpg/Stego
+cd *your path to the repo*
 ```
 
 2. Install the required dependencies:
@@ -73,4 +73,4 @@ This tool was developed for **educational and ethical purposes only** as part of
 
 ## License
 
-MIT License © 2025 Guilherme Marques.
+MIT License © 2026 Guilherme Marques.
